@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaskTangle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskTangle_jar</output-path>
+    <root id="archive" name="TaskTangle.jar">
+      <element id="module-output" name="TaskTangle" />
+    </root>
+  </artifact>
+</component>
